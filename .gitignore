@@ -1,0 +1,4 @@
+*.tfvars
+config/
+*.qcow2
+*.bu
